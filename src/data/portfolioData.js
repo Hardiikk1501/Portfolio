@@ -1,3 +1,8 @@
+
+import nyayasetu from '../assets/nyayasetu.png';
+import assistant from '../assets/assistant.png';
+import portfolio from '../assets/portfolio.png';
+
 export const personalInfo = {
   name: "Hardik",
   title:  "Aspiring Full Stack & AI Developer",
@@ -190,7 +195,7 @@ export const projectsData = [
     category: "Featured AI",
     badge: "Featured AI Project",
     tagline: "Voice-Enabled  AI Assistant powered by Gemini",
-    image: "src/assets/assistant.png",
+    image: {assistant},
     description: "A state-of-the-art conversational AI virtual assistant integrating Google Gemini, Web Speech Recognition, and Speech Synthesis for interactive natural language dialogue and voice control.",
     features: [
       "Google Gemini Integration",
@@ -211,7 +216,7 @@ export const projectsData = [
     category: "MERN Stack",
     badge: "Full Stack SaaS",
     tagline: "End-to-End Legal Consultation Management Platform",
-    image: "src/assets/nyayasetu.png",
+    image: {nyayasetu},
     description: "Comprehensive MERN stack platform connecting clients with legal professionals featuring multi-role dashboards, instant payment processing, real-time chat, and appointment scheduling.",
     features: [
       "Tri-Role Dashboards (Admin, Lawyer, Client)",
@@ -235,7 +240,7 @@ export const projectsData = [
     category: "Featured AI",
     badge: "portfolio website",
     tagline: "A modern, responsive portfolio website showcasing Hardik's MERN stack and AI projects with interactive UI elements, smooth animations, and a chatbot knowledge base.",
-    image: "src/assets/portfolio.png",
+    image: {portfolio},
     description: "A sleek, responsive portfolio website built with React.js, Tailwind CSS v4, and Vite, featuring interactive components, smooth animations, and a chatbot knowledge base for recruiters.",
     features: [
       "Interactive React Components with Framer Motion Animations",
