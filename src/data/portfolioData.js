@@ -246,7 +246,7 @@ export const projectsData = [
       "Contact Form with Email Integration"
     ],
     techStack: ["React.js", "Node.js", "Express.js", "Tailwind CSS v4", "Vite", "Framer Motion", "Chatbot Knowledge Base", "EmailJS"],
-    demoUrl: "https://saas-analytics.vercel.app",
+    demoUrl: "https://hardikparmar.vercel.app",
     githubUrl: "https://github.com/Hardiikk1501/portfolio",
     isFeatured: false
   }
