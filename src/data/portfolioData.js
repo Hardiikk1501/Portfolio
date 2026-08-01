@@ -240,7 +240,7 @@ export const projectsData = [
     category: "Featured AI",
     badge: "portfolio website",
     tagline: "A modern, responsive portfolio website showcasing Hardik's MERN stack and AI projects with interactive UI elements, smooth animations, and a chatbot knowledge base.",
-    image: {portfolio},
+    image:"{portfolio}",
     description: "A sleek, responsive portfolio website built with React.js, Tailwind CSS v4, and Vite, featuring interactive components, smooth animations, and a chatbot knowledge base for recruiters.",
     features: [
       "Interactive React Components with Framer Motion Animations",
