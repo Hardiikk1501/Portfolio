@@ -97,93 +97,93 @@ export const aboutContent = {
 
 export const skillsData = {
   Frontend: [
-    { name: "React.js", level: 95, icon: "Code2", color: "#61dafb" },
-    { name: "Next.js", level: 88, icon: "Layers", color: "#ffffff" },
-    { name: "TypeScript", level: 82, icon: "FileCode2", color: "#3178c6" },
-    { name: "JavaScript (ES6+)", level: 95, icon: "FileCode", color: "#f7df1e" },
-    { name: "HTML5", level: 98, icon: "Layout", color: "#e34f26" },
-    { name: "CSS3", level: 96, icon: "Palette", color: "#1572b6" },
-    { name: "Responsive Web Design", level: 95, icon: "MonitorSmartphone", color: "#06b6d4" },
-    { name: "Bootstrap", level: 90, icon: "PanelTop", color: "#7952b3" },
-    { name: "Webpack", level: 78, icon: "Package", color: "#8dd6f9" },
-    { name: "Angular", level: 65, icon: "Hexagon", color: "#dd0031" },
-    { name: "Tailwind CSS", level: 70, icon: "Tailwind", color: "#42b883"  }
+    { name: "React.js",  icon: "Code2", color: "#61dafb" },
+    { name: "Next.js", icon: "Layers", color: "#ffffff" },
+    { name: "TypeScript", icon: "FileCode2", color: "#3178c6" },
+    { name: "JavaScript (ES6+)",  icon: "FileCode", color: "#f7df1e" },
+    { name: "HTML5", icon: "Layout", color: "#e34f26" },
+    { name: "CSS3",icon: "Palette", color: "#1572b6" },
+    { name: "Responsive Web Design", icon: "MonitorSmartphone", color: "#06b6d4" },
+    { name: "Bootstrap",icon: "PanelTop", color: "#7952b3" },
+    { name: "Webpack",icon: "Package", color: "#8dd6f9" },
+    { name: "Angular", icon: "Hexagon", color: "#dd0031" },
+    { name: "Tailwind CSS", icon: "Tailwind", color: "#42b883"  }
   ],
 
   Backend: [
-    { name: "Node.js", level: 92, icon: "Server", color: "#3c873a" },
-    { name: "Express.js", level: 92, icon: "Cpu", color: "#9ca3af" },
-    { name: "REST APIs", level: 95, icon: "Network", color: "#0ea5e9" },
-    { name: "Socket.IO", level: 90, icon: "Radio", color: "#8b5cf6" },
-    { name: "Auth.js", level: 85, icon: "ShieldCheck", color: "#22c55e" },
+    { name: "Node.js", icon: "Server", color: "#3c873a" },
+    { name: "Express.js", icon: "Cpu", color: "#9ca3af" },
+    { name: "REST APIs",  icon: "Network", color: "#0ea5e9" },
+    { name: "Socket.IO",icon: "Radio", color: "#8b5cf6" },
+    { name: "Auth.js", icon: "ShieldCheck", color: "#22c55e" },
    
-    { name: "ASP.NET MVC", level: 65, icon: "Code", color: "#512bd4" }
+    { name: "ASP.NET Core",icon: "Code", color: "#512bd4" }
   ],
 
   Database: [
-    { name: "MongoDB", level: 94, icon: "Database", color: "#13aa52" },
-    { name: "MySQL", level: 85, icon: "DatabaseBackup", color: "#00758f" },
-    { name: "Oracle Database", level: 75, icon: "DatabaseZap", color: "#f80000" },
-    { name: "SQL", level: 88, icon: "Table", color: "#2563eb" },
-    { name: "PL/SQL", level: 72, icon: "FileSpreadsheet", color: "#dc2626" },
-    { name: "DBMS", level: 90, icon: "HardDrive", color: "#14b8a6" }
+    { name: "MongoDB", icon: "Database", color: "#13aa52" },
+    { name: "MySQL",icon: "DatabaseBackup", color: "#00758f" },
+    { name: "Oracle Database", icon: "DatabaseZap", color: "#f80000" },
+    { name: "SQL",icon: "Table", color: "#2563eb" },
+    { name: "PL/SQL",  icon: "FileSpreadsheet", color: "#dc2626" },
+    { name: "DBMS",  icon: "HardDrive", color: "#14b8a6" }
   ],
 
   "Artificial Intelligence": [
-    { name: "Google Gemini AI", level: 94, icon: "Bot", color: "#3b82f6" },
-    { name: "Generative AI", level: 92, icon: "Sparkles", color: "#a855f7" },
-    { name: "Prompt Engineering", level: 92, icon: "Wand2", color: "#ec4899" },
-    { name: "LangChain", level: 85, icon: "Workflow", color: "#22c55e" },
-    { name: "Retrieval-Augmented Generation (RAG)", level: 82, icon: "Brain", color: "#6366f1" },
-    { name: "AI Integration", level: 94, icon: "Puzzle", color: "#0ea5e9" },
-    { name: "AI Chatbots", level: 95, icon: "MessageSquareText", color: "#8b5cf6" },
-    { name: "Voice AI Assistants", level: 94, icon: "Mic", color: "#14b8a6" },
-    { name: "Web Speech API", level: 90, icon: "Volume2", color: "#f59e0b" },
-    { name: "ChatGPT Integration", level: 90, icon: "MessagesSquare", color: "#10b981" },
-    { name:"Claude", level: 85, icon: "MessageCircle", color: "#8b5cf6" },
+    { name: "Google Gemini AI",icon: "Bot", color: "#3b82f6" },
+    { name: "Generative AI",icon: "Sparkles", color: "#a855f7" },
+    { name: "Prompt Engineering", icon: "Wand2", color: "#ec4899" },
+    { name: "LangChain", icon: "Workflow", color: "#22c55e" },
+    { name: "Retrieval-Augmented Generation (RAG)", icon: "Brain", color: "#6366f1" },
+    { name: "AI Integration", icon: "Puzzle", color: "#0ea5e9" },
+    { name: "AI Chatbots", icon: "MessageSquareText", color: "#8b5cf6" },
+    { name: "Voice AI Assistants", icon: "Mic", color: "#14b8a6" },
+    { name: "Web Speech API",  icon: "Volume2", color: "#f59e0b" },
+    { name: "ChatGPT Integration", icon: "MessagesSquare", color: "#10b981" },
+    { name:"Claude",  icon: "MessageCircle", color: "#8b5cf6" },
     
   ],
 
   "Cloud & DevOps": [
-    { name: "Docker", level: 82, icon: "Container", color: "#2496ed" },
-    { name: "AWS", level: 75, icon: "CloudCog", color: "#ff9900" },
-    { name: "Cloud Computing", level: 82, icon: "Cloud", color: "#38bdf8" },
-    { name: "CI/CD", level: 78, icon: "GitMerge", color: "#f97316" },
-    { name: "Git", level: 94, icon: "GitCommit", color: "#f05032" },
-    { name: "GitHub", level: 95, icon: "Github", color: "#ffffff" },
-    { name: "Render", level: 90, icon: "Render", color: "#7a1b1b" },
+    { name: "Docker",icon: "Container", color: "#2496ed" },
+    { name: "AWS", icon: "CloudCog", color: "#ff9900" },
+    { name: "Cloud Computing",icon: "Cloud", color: "#38bdf8" },
+    { name: "CI/CD",icon: "GitMerge", color: "#f97316" },
+    { name: "Git",  icon: "GitCommit", color: "#f05032" },
+    { name: "GitHub",  icon: "Github", color: "#ffffff" },
+    { name: "Render",  icon: "Render", color: "#7a1b1b" },
     
   ],
 
   "Programming Languages": [
-    { name: "JavaScript", level: 95, icon: "FileCode", color: "#f7df1e" },
-    { name: "TypeScript", level: 82, icon: "FileCode2", color: "#3178c6" },
-    { name: "Python", level: 82, icon: "FileTerminal", color: "#3776ab" },
-    { name: "Java", level: 75, icon: "Coffee", color: "#f89820" },
-    { name: "C", level: 75, icon: "Binary", color: "#00599c" },
-    { name: "C++", level: 80, icon: "Cpu", color: "#004482" },
-    { name: "C#", level: 72, icon: "Hash", color: "#68217a" }
+    { name: "JavaScript", icon: "FileCode", color: "#f7df1e" },
+    { name: "TypeScript", icon: "FileCode2", color: "#3178c6" },
+    { name: "Python", icon: "FileTerminal", color: "#3776ab" },
+    { name: "Java",icon: "Coffee", color: "#f89820" },
+    { name: "C",icon: "Binary", color: "#00599c" },
+    { name: "C++",icon: "Cpu", color: "#004482" },
+    { name: "C#",icon: "Hash", color: "#68217a" }
   ],
 
   "Tools & Software": [
-    { name: "Visual Studio Code", level: 98, icon: "Monitor", color: "#007acc" },
-    { name: "Postman", level: 92, icon: "Send", color: "#ff6c37" },
-    { name: "MongoDB Compass", level: 90, icon: "Compass", color: "#13aa52" },
-    { name: "Microsoft Office", level: 90, icon: "Briefcase", color: "#d83b01" },
-    { name: "Data Visualization", level: 82, icon: "BarChart3", color: "#8b5cf6" },
-    { name: "Thunder Client", level: 85, icon: "Zap", color: "#f97316" },
-    { name: "Figma", level: 88, icon: "Palette", color: "#f24e1e" },
-    { name: "Canva", level: 85, icon: "Image", color: "#00c4cc" }
+    { name: "Visual Studio Code", icon: "Monitor", color: "#007acc" },
+    { name: "Postman", icon: "Send", color: "#ff6c37" },
+    { name: "MongoDB Compass",icon: "Compass", color: "#13aa52" },
+    { name: "Microsoft Office", icon: "Briefcase", color: "#d83b01" },
+    { name: "Data Visualization", icon: "BarChart3", color: "#8b5cf6" },
+    { name: "Thunder Client", icon: "Zap", color: "#f97316" },
+    { name: "Figma",icon: "Palette", color: "#f24e1e" },
+    { name: "Canva",icon: "Image", color: "#00c4cc" }
   ],
 
   "Professional Skills": [
-    { name: "Software Development", level: 95, icon: "Laptop", color: "#3b82f6" },
-    { name: "Software Systems Engineering", level: 88, icon: "Settings2", color: "#22c55e" },
-    { name: "SaaS Development", level: 82, icon: "Globe", color: "#06b6d4" },
-    { name: "Front-End Development", level: 94, icon: "Monitor", color: "#0ea5e9" },
-    { name: "User Experience (UX)", level: 88, icon: "Users", color: "#ec4899" },
-    { name: "Time Management", level: 92, icon: "Clock3", color: "#f59e0b" },
-    { name: "Problem Solving", level: 95, icon: "Puzzle", color: "#8b5cf6" },
+    { name: "Software Development",icon: "Laptop", color: "#3b82f6" },
+    { name: "Software Systems Engineering",icon: "Settings2", color: "#22c55e" },
+    { name: "SaaS Development", icon: "Globe", color: "#06b6d4" },
+    { name: "Front-End Development",icon: "Monitor", color: "#0ea5e9" },
+    { name: "User Experience (UX)", icon: "Users", color: "#ec4899" },
+    { name: "Time Management", icon: "Clock3", color: "#f59e0b" },
+    { name: "Problem Solving",icon: "Puzzle", color: "#8b5cf6" },
     
   ]
 };
@@ -195,7 +195,7 @@ export const projectsData = [
     category: "Featured AI",
     badge: "Featured AI Project",
     tagline: "Voice-Enabled  AI Assistant powered by Gemini",
-    image: {assistant},
+    image: assistant,
     description: "A state-of-the-art conversational AI virtual assistant integrating Google Gemini, Web Speech Recognition, and Speech Synthesis for interactive natural language dialogue and voice control.",
     features: [
       "Google Gemini Integration",
@@ -216,7 +216,7 @@ export const projectsData = [
     category: "MERN Stack",
     badge: "Full Stack SaaS",
     tagline: "End-to-End Legal Consultation Management Platform",
-    image: {nyayasetu},
+    image: nyayasetu,
     description: "Comprehensive MERN stack platform connecting clients with legal professionals featuring multi-role dashboards, instant payment processing, real-time chat, and appointment scheduling.",
     features: [
       "Tri-Role Dashboards (Admin, Lawyer, Client)",
@@ -240,7 +240,7 @@ export const projectsData = [
     category: "Featured AI",
     badge: "portfolio website",
     tagline: "A modern, responsive portfolio website showcasing Hardik's MERN stack and AI projects with interactive UI elements, smooth animations, and a chatbot knowledge base.",
-    image:"{portfolio}",
+    image: portfolio,
     description: "A sleek, responsive portfolio website built with React.js, Tailwind CSS v4, and Vite, featuring interactive components, smooth animations, and a chatbot knowledge base for recruiters.",
     features: [
       "Interactive React Components with Framer Motion Animations",
