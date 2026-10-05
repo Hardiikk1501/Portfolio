@@ -290,7 +290,7 @@ export const experienceData = [
   {
     type: "certification",
     title: "Full Stack MERN Certification",
-    institution: "Unstop :India's largest community engagement and hiring platform",
+    institution: "Unstop platform",
     period: "2025",
     description: " Completed a comprehensive Full Stack MERN certification program covering React, Node.js, Express, MongoDB, and advanced web development practices.",
     highlights: ["get certified", "Mastered Async JavaScript & State Management"]
