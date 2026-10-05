@@ -300,7 +300,6 @@ export const experienceData = [
     title:"Full Stack software developer Assessment",
     institution:"IBM",
     period:" AUG 2026",
-    CredentialId:"",
     description:"Successfully completed the Full Stack Software Developer Assessment from IBM,demonstrating knowledge of full-stack software development conceptsand technologies.",
     highlights:["full stack development", "Hands-on experience with REST APIs and Authentication"]
 
