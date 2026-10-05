@@ -295,6 +295,16 @@ export const experienceData = [
     description: " Completed a comprehensive Full Stack MERN certification program covering React, Node.js, Express, MongoDB, and advanced web development practices.",
     highlights: ["get certified", "Mastered Async JavaScript & State Management"]
   },
+  {
+    type: "certification",
+    title:"Full Stack software developer Assessment",
+    institution:"IBM",
+    period:" AUG 2026",
+    CredentialId:"",
+    description:"Successfully completed the Full Stack Software Developer Assessment from IBM,demonstrating knowledge of full-stack software development conceptsand technologies.",
+    highlights:["full stack development", "Hands-on experience with REST APIs and Authentication"]
+
+  },
   
   {
     type: "milestone",
